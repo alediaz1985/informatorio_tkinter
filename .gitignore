@@ -1,0 +1,44 @@
+# Entorno virtual
+venv/
+
+# Archivos de Python compilados y caché
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales de logs o debug
+*.log
+*.tmp
+
+# Archivos de configuración local o sensibles
+.env
+
+# Archivos creados por editores o IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de Tkinter si guardás capturas o imágenes temporales
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.ico
+
+# Archivos de bases de datos locales (si usás sqlite para testing)
+*.sqlite3
+*.db
+
+# Archivos comprimidos o paquetes
+*.zip
+*.tar.gz
+*.egg-info/
+
+# Instaladores o dependencias empaquetadas
+dist/
+build/
