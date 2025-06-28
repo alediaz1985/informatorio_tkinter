@@ -1,0 +1,28 @@
+Kiosco de Alejandro - Comprobante de Compra
+Cliente: Capibara
+Fecha: 27/06/2025 - Hora: 16:57:58
+
+Productos:
+- Chocolate Barra: $1800
+- Oreo: $2200
+- Jugo Baggio 1L: $1399
+
+Total: $5399
+
+¡Gracias por su compra en el Informatorio!
+----------------------------------------
+Kiosco de Alejandro - Comprobante de Compra
+Cliente: Capibara
+Fecha: 28/06/2025 - Hora: 08:59:48
+
+Productos:
+- Agua Mineral Barata: $550
+- Oreo: $2200
+- Chocolate Barra: $1800
+- Chocolate Barra: $1800
+- Jugo Baggio 1L: $1399
+
+Total: $7749
+
+¡Gracias por su compra en el Informatorio!
+----------------------------------------
